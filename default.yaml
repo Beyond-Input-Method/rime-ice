@@ -11,7 +11,7 @@ schema_list:
   - schema: bim_t9 # 超越九键（全拼）
   - schema: bim_t14 # 超越14键（全拼）
   - schema: rime_ice_26 # 雾凇拼音（全拼）
-  - schema: rime_ice_14 # 雾凇拼音（全拼）
+  # - schema: rime_ice_14 # 雾凇拼音（全拼）
   - schema: rime_ice_18 # 雾凇拼音（全拼）
   - schema: double_pinyin # 自然码双拼
   - schema: double_pinyin_14 # 自然码双拼

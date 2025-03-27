@@ -6,7 +6,7 @@ __include: rime_ice.schema.yaml:/
 
 schema:
   schema_id: bim_t9
-  name: 超越拼音九键
+  name: 拼音9键
   version: "1.0.0"
   author:
     - jimmy54

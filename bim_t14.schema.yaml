@@ -4,7 +4,7 @@
 # 方案说明
 schema:
   schema_id: bim_t14
-  name: 超越全拼14键
+  name: 拼音14键
   version: "2025-02-24"
   author:
     - Dvel

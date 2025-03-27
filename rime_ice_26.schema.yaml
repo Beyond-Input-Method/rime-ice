@@ -5,7 +5,7 @@
 # 方案说明
 schema:
   schema_id: rime_ice_26
-  name: 中文拼音26键
+  name: 拼音26键
   version: "2024-12-06"
   author:
     - Dvel
