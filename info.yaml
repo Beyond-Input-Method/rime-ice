@@ -19,6 +19,5 @@ use_theme:
   # 自定义主题
   custom:
     # 自定义主题的名称，路径同上。
-    #    "bim_t9": "themes/t9"
-    "bim_t9": "schemas/雾凇拼音/themes/t9"
+    "bim_t9": "themes/t9"
     "bim_t14": "themes/t14"
