@@ -21,7 +21,7 @@ use_theme:
     # 自定义主题的名称，路径同上。
     "bim_t9": "themes/t9"
     "bim_t14": "themes/t14"
-    "bim_t18": "themes/t18"
+    "rime_ice_18": "themes/t18"
     "double_pinyin_14": "themes/t14"
     "double_pinyin_18": "themes/t18"
     "double_pinyin_abc_14": "themes/t14"
