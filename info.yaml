@@ -1,8 +1,8 @@
-name: 雾松拼音
-author: iDevl
+name: 中文拼音
+author: iDvel
 version: 1.0.0
-description: 雾松拼音
-url: https://github.com/iDvel/rime-ice
+description: 方案主体来源雾松拼音
+url: https://github.com/Beyond-Input-Method/rime-ice/tree/main
 createTime: 2023-03-30
 updateTime: 2023-03-30
 # supportPlatforms:
